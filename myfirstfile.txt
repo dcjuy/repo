@@ -1,3 +1,5 @@
 Added a line in Notepad
 
 Added a line in Atom
+
+Added this line with Atom in a new branch
