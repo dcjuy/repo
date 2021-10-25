@@ -1,1 +1,2 @@
 Added a line in Notepad
+Added a line in Atom
